@@ -12,7 +12,7 @@ export default {
   name: 'app',
  data:function () {
    return{
-     message:"感觉自己萌萌的"
+     message:"感觉自己萌萌的！！"
    }
  }
 }
